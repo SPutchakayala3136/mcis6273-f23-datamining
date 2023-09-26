@@ -1,0 +1,32 @@
+##Task: Answer the following questions:
+
+Which were the 5 most frequent words in all_words.csv were most frequent?
+Ans: the, of, is, to, and.
+
+Which were the 5 most frequent words in all_uppercase_words.csv.
+Ans: I, A, B, OF, CHAPTER
+
+Compare and contrast these top 5. Explain in 2-3 sentences what you observe about the similariries and differences.
+Ans: ● First, we get stopwords as the most frequent words.
+● Second, we get words that are usually at the start of the statements.
+
+In your own words, what were the most surprising parts of each list?
+Ans: The frequency of common stopwords differs significantly from other words.
+
+##Task:
+How many unique non-stop words are in the text?
+Ans: We have 2983 distinct words when we count all the non-stopwords we read from the text, including numerals and other words as well.
+
+Which is the least probable word? (if there is a tie, please state the tie words)
+Ans: There are several words that only appear rarely and have a least probability, such as "abide," "abstain," and "abstracted." There are also other additional words.
+
+What observation can you make about the probabilities?
+Ans: The majority of words only appear once or twice, and there are relatively few of them.
+
+Which sentence is more likely:
+Ans:
+If a belief is true, it can be deduced it is universal.
+First sentence:.00858
+Criticism of knowledge is counter to scientific results.
+Second sentence:.0228
+Sentence 2 is more likely than Sentence 1
